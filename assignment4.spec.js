@@ -1,3 +1,4 @@
+// Added detailed console.log messages for better debugging
 const { test, expect } = require('@playwright/test');
 const fs = require('fs');
 

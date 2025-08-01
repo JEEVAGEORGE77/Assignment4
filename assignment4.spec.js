@@ -1,4 +1,7 @@
 // Added detailed console.log messages for better debugging
+// Updated test descriptions to be more descriptive
+
+
 const { test, expect } = require('@playwright/test');
 const fs = require('fs');
 
